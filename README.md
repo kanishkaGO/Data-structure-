@@ -18,3 +18,24 @@ solving the leetcode problem realted to data structure from basic to high level
 </table>
 
 <!-- SOLUTIONS_END -->
+
+
+## Linked List Practice
+
+- [simple_linkedlist.cpp](simple_linkedlist.cpp) — a beginner-friendly singly linked list implementation in C++.
+
+### Included operations
+
+- Print the list
+- Insert at the beginning
+- Insert at the end
+- Search for a value
+- Count nodes
+
+### Example output
+
+```text
+List: 5 10 20 30 40
+Nodes: 5
+Search 20: found
+```
